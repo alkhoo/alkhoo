@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alkhoo
 - 👀 I’m interested in front end animation
-- 🌱 I’m currently refreshing IT framework knowledge
-- 💞️ I’m looking to collaborate on autoated stocks trading
+- 🌱 I’m currently trading in stocks and security
+- 💞️ I’m looking to collaborate on mathematical projects, especially for kids
 - 📫 How to reach me ...
 
 <!---
